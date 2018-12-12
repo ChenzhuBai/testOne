@@ -1,0 +1,11 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="MyTestOne.rxtst" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="MyTestOne.rxtst" />
+    <Element value="Recording1.rxrec" />
+  </Array>
+  <Properties name="projectSavedData" />
+</Properties>
